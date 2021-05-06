@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jax9381
+- 👀 I’m interested in ... Fortnite's api mainly their mongo database
+- 🌱 I’m currently learning ... kernel driver development
+- 💞️ I’m looking to collaborate on ... nothing
+- 📫 How to reach me ... dont
